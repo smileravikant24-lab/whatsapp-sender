@@ -1,0 +1,4 @@
+{
+    "version": "1.0.0",
+    "changelog": "- Initial release\n- Images now send as photos (not stickers)\n- Multiple image support\n- Auto-update checker added"
+}
